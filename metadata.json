@@ -1,0 +1,6 @@
+{
+  "name": "LifeCare 24/7",
+  "description": "AI-assisted health guidance and healthcare navigation platform designed for rural and underserved communities with voice-first interaction in English and Hindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
